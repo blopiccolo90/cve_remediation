@@ -1,0 +1,4 @@
+THRESHOLD = 0.6
+ALPHA = 0.4
+BETA = 0.2
+GAMMA = 0.4

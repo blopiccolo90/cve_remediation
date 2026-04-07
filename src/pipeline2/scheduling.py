@@ -1,0 +1,1 @@
+def schedule_batches(df): return df.orderBy('score', ascending=False)
